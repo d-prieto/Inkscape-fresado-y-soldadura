@@ -66,11 +66,82 @@ La siguiente vuelta es hacer un traspase de números a letras
 
 ## De números a letras 
 
+Para pasar de números a letras usaremos... una tabla. Concretamente la tabla ASCII. Le das un número y te devuelve una letra. Esto tiene ciertas limitaciones para determinados tipos de caracteres, pero Serial es lo que utiliza. 
+
+En nuestro caso cogeremos 7 bits y en función de su varlor (de 0 a 128). Se puede consultar aquí: https://www.arduino.cc/en/Reference/ASCIIchart pero aquí está la imagen
+
+![imagen](https://user-images.githubusercontent.com/60569015/113596375-821adc00-963a-11eb-9ff6-282d7f7e1c16.png)
+
+### Ejercicio de combinacion de números
+
+``` C++
+
+/*
+  Uses a for loop to print numbers in various formats.
+*/
+void setup() {
+  Serial.begin(9600); // open the serial port at 9600 bps:
+}
+
+void loop() {
+  escribirTitulosDeColumnas();
+
+  for (int x = 0; x < 1000; x++) { // only part of the ASCII chart, change to suit
+    if(x%21 == 20){
+      escribirTitulosDeColumnas();
+    }
+    // print it out in many formats:
+    Serial.print(x);       // print as an ASCII-encoded decimal - same as "DEC"
+    Serial.print("\t\t");  // prints two tabs to accomodate the label lenght
+
+    Serial.print(x, DEC);  // print as an ASCII-encoded decimal
+    Serial.print("\t");    // prints a tab
+
+    Serial.print(x, HEX);  // print as an ASCII-encoded hexadecimal
+    Serial.print("\t");    // prints a tab
+    Serial.print("\t");    // prints a tab
+    
+    Serial.print(x, OCT);  // print as an ASCII-encoded octal
+    Serial.print("\t");    // prints a tab
+
+    Serial.print(x, BIN);  // print as an ASCII-encoded binary
+    Serial.print("\t");    // prints a tab
+    // then adds the carriage return with "println"
+    Serial.println(char(x));
+    delay(100);            // delay 100 milliseconds
+  }
+  Serial.println();        // prints another carriage return
+}
+
+void escribirTitulosDeColumnas() {
+    // print labels
+  Serial.print("Sin formato");  // prints a label
+  Serial.print("\t");         // prints a tab
+
+  Serial.print("DECimal");
+  Serial.print("\t");
+
+  Serial.print("HEXadecimal");
+  Serial.print("\t");
+
+  Serial.print("OCTal");
+  Serial.print("\t");
+
+  Serial.print("BINario");
+  Serial.print("\t");
+
+  Serial.print("caracter");  
+  Serial.println();        // carriage return after the last label
+}
+
+```
+
+Este código lo tomé de aquí: https://www.arduino.cc/reference/en/language/functions/communication/serial/print/ y sirve para ver cómo van los diferentes tipos de números. Y añadí los caracteres y que escribiera la cabecera de las columnas cada 21 líneas. 
 
 
-Hoy vamos a hacer un par de ejercicios para pasar información de botones a bits y mandarlos al ordenador como letras y la operación inversa. 
+Y ahora al revés: 
 
-Primero decir que existe una conversión (creo que Arduino utiliza ANSI, pero puede que use ASCII). He modificado un código que he encontrado aquí: https://forum.arduino.cc/index.php?topic=647786.msg4369705#msg4369705
+A partir de este código https://forum.arduino.cc/index.php?topic=647786.msg4369705#msg4369705 se puede tomar lo que le mandemos nosotros al arduino 
 
 
 ``` C++
@@ -156,6 +227,14 @@ void loop() {
 
 
 
-Ahora vamos a intentar hacer lo contrario para lo cual vamos a necesitar 8 botones o 1 botón y cables con posible conexión manual a 5V o GND. 
+Ahora vamos a intentar hacer lo contrario para lo cual vamos a necesitar 8 botones o 1 botón y cables con posible conexión manual a 5V o GND.  (no se incluye código aún)
 
 
+## Requisitos para repositorio:
+
+- Fotografía y apuntes sobre los sistemas de numeración. 
+- Código de sistema de botones. Personal y resolución binaria. 
+- Fotografia del caracter enviado y qué leds enciende. 
+- Código y comentario.
+- Fotografía del arduino con botones y los caracteres que crean.  
+- Código y comentario.

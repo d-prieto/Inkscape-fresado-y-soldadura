@@ -12,6 +12,9 @@ https://inkscape.org/es/doc/tutorials/basic/tutorial-basic.html
 *  Rasterizado en diferentes resoluciones de una imagen 
 *  Vectorizado de una misma imagen (León de Rosa Bonheur)
 *  Modificación de una forma cambiando su relleno.
-*  Modif
+*  Modificación de una forma cambiando el estilo de línea. 
+*  Modificación de una forma cambiando el grosor de línea. 
+*  Creación de curvas Bézier. Rectas, curvas. Forma libre. 
+*  Creación de dibujo para corte láser (referencia si se ha utilizado). 
 
 

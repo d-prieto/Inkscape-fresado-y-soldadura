@@ -48,3 +48,8 @@ https://joaclintistgud.wordpress.com/
 https://joaclintistgud.files.wordpress.com/2011/04/logo_a_logo_segunda_edicion.pdf
 
 https://grandecovian.es/FGC/index.php/tecmatimp/informatica-1-bto/inkscape/1349-ejercicios-arduino-2
+
+## Otras referencias
+
+Arquitectura de ordenadores:
+https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arquitectura%20de%20ordenadores.pdf

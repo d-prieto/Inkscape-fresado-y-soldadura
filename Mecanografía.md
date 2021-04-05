@@ -2,6 +2,7 @@
 
 
 ![Robin Williams aporreando un teclado](https://www.profesionalreview.com/wp-content/uploads/2020/04/aprender-a-escribir-sin-mirar-el-teclado.gif)
+
 _por favor, no golpear el teclado como lo hace este actor_
 
 

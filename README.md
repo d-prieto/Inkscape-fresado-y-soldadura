@@ -6,11 +6,8 @@ Este repositorio recopila el trabajo y el material de la tercera evaluación don
 
 [Enlace a las instrucciones de google Activate](https://github.com/d-prieto/Inkscape-fresado-y-soldadura/blob/main/Google%20Activate.md#cursos-google-activate)
 
-## Referencias
 
-Tutorial sobre inkscape 
 
-https://inkscape.org/es/doc/tutorials/basic/tutorial-basic.html
 
 ## Repositorios de alumnos 
 
@@ -38,4 +35,16 @@ Este es un resumen de los ejercicios realizados en el bloque de Inkscape
 *  Creación de curvas Bézier. Rectas, curvas. Forma libre. 
 *  Creación de dibujo para corte láser (referencia si se ha utilizado). 
 
+## Referencias Inkscape
 
+Tutorial sobre inkscape 
+
+https://inkscape.org/es/doc/tutorials/basic/tutorial-basic.html
+
+Curso "Logo a logo"
+
+https://joaclintistgud.wordpress.com/
+
+https://joaclintistgud.files.wordpress.com/2011/04/logo_a_logo_segunda_edicion.pdf
+
+https://grandecovian.es/FGC/index.php/tecmatimp/informatica-1-bto/inkscape/1349-ejercicios-arduino-2

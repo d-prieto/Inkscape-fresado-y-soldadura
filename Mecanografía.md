@@ -62,6 +62,7 @@ También, en deferencia a Wesley hay que mostrar el teclado brasileño
 Y el teclado Chino con sus Yuanes
 
 ![imagen](https://user-images.githubusercontent.com/60569015/113562737-ec198e00-9606-11eb-98dd-7991a979ed8d.png)
+
 Fuente: http://www.clubmandarin.com/el-teclado-en-chino-en-la-computadora.html
 
 Por último, el qwerty inglés
@@ -81,3 +82,14 @@ También le pasa lo mismo con los símbolos {} y [] que en castellano requieren 
 
 ## Pasar de un teclado a otro
 
+Por suerte, teniendo un teclado, podemos utilizar diferentes configuraciones que tengamos aprendidas de memoria gracias a nuestra _memoria muscular_. De tal forma que si alguna vez tenemos un teclado AZERTY francés o un teclado QWERTZ alemán, o un teclado en cirílico, podemos configurarlo para poder escribir "ñ" y "ç" sin ningún tipo de contratiempo. Para ello basta configurar en nuestro sistema operativo y aunque el teclado muestre unos botones, el ordenador recibirá señales como le hayamos configurado. 
+
+Hay hasta pegatinas que se pueden encargar 
+
+![imagen](https://user-images.githubusercontent.com/60569015/113563506-19b30700-9608-11eb-86c5-674492a8c0f4.png)
+
+![imagen](https://user-images.githubusercontent.com/60569015/113563574-364f3f00-9608-11eb-8275-01d5747aa207.png)
+
+### Enlaces que explican la configuración de teclados en diferentes sistemas operativos
+
+https://internetpasoapaso.com/poner-teclado-en-chino/

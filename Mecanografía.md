@@ -21,9 +21,15 @@ https://agilefingers.com/
 
 https://www.ratatype.es/
 
+https://sense-lang.org/spanish.php?key=spanish
+
+https://www.typinglessons-online.com/es/Index
+
+https://www.typingclub.com/
+
 Código de programación para teclear: https://typing.io/lessons
 
-
+https://www.artypist.com/es/
 
 
 ## Test: 
@@ -32,6 +38,11 @@ https://www.ratatype.es/typing-test/
 
 https://agilefingers.com/es/test
 
+https://sense-lang.org/typing/tutor/testES.php?key=spanish
+
+https://www.artypist.com/es/test-mecanografia/test-velocidad
+
+https://www.keyhero.com/prueba-mecanografia/test-gratuito/
 
 ## Lecturas
 
@@ -93,3 +104,17 @@ Hay hasta pegatinas que se pueden encargar
 ### Enlaces que explican la configuración de teclados en diferentes sistemas operativos
 
 https://internetpasoapaso.com/poner-teclado-en-chino/
+
+https://www.sysadmit.com/2017/12/linux-configurar-teclado-espanol.html
+
+https://help.ubuntu.com/stable/ubuntu-help/keyboard-layouts.html.es
+
+https://support.microsoft.com/es-es/windows/cambiar-la-distribuci%C3%B3n-del-teclado-245c49b8-f856-7fd7-2cf5-41e54c66f5b3
+
+## Exigencias del repositorio sobre mecanografía 
+
+1) Referencia sobre qué páginas se están utilizando y por qué. Ventajas y desventajas de cada una.
+2) Test de inicio (con captura) y test final de mejora con fecha incluida. 
+3)  (opcional) Tests intermedios y opiniones personales. 
+4)  (opcional) Prueba de cambio de teclado a Dvorak y prueba con teclado Dvorak.
+5) (opcional) documentación con capturas sobre cómo cambiar la configuración en Linux 

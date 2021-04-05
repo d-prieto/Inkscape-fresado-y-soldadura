@@ -33,6 +33,8 @@ Código de programación para teclear: https://typing.io/lessons
 
 https://www.artypist.com/es/
 
+https://www.velocidactil.es/jugar-online
+
 
 ## Test: 
 

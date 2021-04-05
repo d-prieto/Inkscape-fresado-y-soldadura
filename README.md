@@ -6,7 +6,7 @@ Este repositorio recopila el trabajo y el material de la tercera evaluación don
 
 [Enlace a las instrucciones de google Activate](https://github.com/d-prieto/Inkscape-fresado-y-soldadura/blob/main/Google%20Activate.md#cursos-google-activate)
 
-
+[Clase especial de Bits]
 
 
 ## Repositorios de alumnos 

@@ -1,6 +1,7 @@
 # Información sobre mecanografía 
 
 ![imagen](https://user-images.githubusercontent.com/60569015/113556952-896fc480-95fd-11eb-8a9a-0c52926a67a7.png)
+
 ![](https://www.profesionalreview.com/wp-content/uploads/2020/04/aprender-a-escribir-sin-mirar-el-teclado.gif)
 
 

@@ -2,6 +2,7 @@
 
 
 ![Robin Williams aporreando un teclado](https://www.profesionalreview.com/wp-content/uploads/2020/04/aprender-a-escribir-sin-mirar-el-teclado.gif)
+_por favor, no golpear el teclado como lo hace este actor_
 
 
 La mecanografía sirve para teclear más rápido y con eficiencia, lo cual es útil en cuanquier tipo de programación, redacción formal e informal. Realizarla correctamente al tacto sin necesidad de mirar el teclado y utilizando toda la mano ayuda. Con esto se puede mejorar también, a largo plazo, las capacidades de redacción debido a que se gasta menos tiempo en "escribir" y se puede utilizar en "pensar cómo escribir". 

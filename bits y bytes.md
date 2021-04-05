@@ -1,6 +1,18 @@
 # Clase de bits y bytes
 
+![](https://i.pinimg.com/originals/7f/7f/28/7f7f2882899755a705a2953b6fcfc263.gif)
+_lluvia digital de Matrix_
+
 Cómo hemos visto en otras partes del curso, la unidad mínima de información en cualquier sistema informatizado es el bit. Un interruptor donde "encendido" es 1 y "apagado" es 0.
+
+Estos números se pueden agrupar de muchas formas. Pueden crear sonido, pueden modelar imágenes y pueden modelar texto. 
+
+Así que vamos a hacer operaciones con números 
+
+![imagen](https://user-images.githubusercontent.com/60569015/113589090-40396800-9631-11eb-9f52-a75d79419586.png)
+
+La siguiente unidad después del bit dentro de la informática es el byte, que son 8 bits. 
+
 
 Hoy vamos a hacer un par de ejercicios para pasar información de botones a bits y mandarlos al ordenador como letras y la operación inversa. 
 
@@ -87,3 +99,9 @@ void loop() {
   }
 }
 ```
+
+
+
+Ahora vamos a intentar hacer lo contrario para lo cual vamos a necesitar 8 botones o 1 botón y cables con posible conexión manual a 5V o GND. 
+
+

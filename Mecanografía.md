@@ -59,11 +59,18 @@ También, en deferencia a Wesley hay que mostrar el teclado brasileño
 
 ![imagen](https://user-images.githubusercontent.com/60569015/113560295-123d2f00-9603-11eb-90a2-3cddef4564fa.png)
 
+Y el teclado Chino con sus Yuanes
+
+![imagen](https://user-images.githubusercontent.com/60569015/113562737-ec198e00-9606-11eb-98dd-7991a979ed8d.png)
+Fuente: http://www.clubmandarin.com/el-teclado-en-chino-en-la-computadora.html
+
 Por último, el qwerty inglés
 
 ![imagen](https://user-images.githubusercontent.com/60569015/113561907-97c1de80-9605-11eb-9dd0-dbf7d07def7c.png)
 
 Este es importante porque además de, sigh, ser bastante estándar, explica por qué muchos lenguajes de programación utilizan tanto el ";". Básicamente es una tecla de muy fácil acceso en el teclado qwerty inglés. 
+
+También le pasa lo mismo con los símbolos {} y [] que en castellano requieren de la tecla de alt. 
 
 ## Teclados Dvorak 
 
@@ -71,4 +78,6 @@ Este es importante porque además de, sigh, ser bastante estándar, explica por 
 
 ![imagen](https://user-images.githubusercontent.com/60569015/113562488-79101780-9606-11eb-8a20-defd48732146.png)
 
+
+## Pasar de un teclado a otro
 

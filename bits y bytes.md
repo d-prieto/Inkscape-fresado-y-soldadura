@@ -1,6 +1,7 @@
 # Clase de bits y bytes
 
 ![](https://i.pinimg.com/originals/7f/7f/28/7f7f2882899755a705a2953b6fcfc263.gif)
+
 _lluvia digital de Matrix_
 
 Cómo hemos visto en otras partes del curso, la unidad mínima de información en cualquier sistema informatizado es el bit. Un interruptor donde "encendido" es 1 y "apagado" es 0.

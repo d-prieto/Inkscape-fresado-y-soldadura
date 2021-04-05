@@ -1,6 +1,8 @@
 # Repositorio tercera evaluación PFI-PTT Castelldefels 
 
-Este repositorio recopila el trabajo y el material de la tercera evaluación donde damos inkscape, fresado y 
+Este repositorio recopila el trabajo y el material de la tercera evaluación donde damos inkscape, fresado y otras competencias TIC. 
+
+[Enlace a la documentación de mecanografía](https://github.com/d-prieto/Inkscape-fresado-y-soldadura/blob/main/Mecanograf%C3%ADa.md#informaci%C3%B3n-sobre-mecanograf%C3%ADa)
 
 ## Referencias
 

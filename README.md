@@ -4,6 +4,8 @@ Este repositorio recopila el trabajo y el material de la tercera evaluación don
 
 [Enlace a la documentación de mecanografía](https://github.com/d-prieto/Inkscape-fresado-y-soldadura/blob/main/Mecanograf%C3%ADa.md#informaci%C3%B3n-sobre-mecanograf%C3%ADa)
 
+[Enlace a las instrucciones de google Activate](https://github.com/d-prieto/Inkscape-fresado-y-soldadura/blob/main/Google%20Activate.md#cursos-google-activate)
+
 ## Referencias
 
 Tutorial sobre inkscape 

@@ -45,6 +45,8 @@ Curso "Logo a logo"
 
 https://joaclintistgud.wordpress.com/
 
+
+Este es el PDF:
 https://joaclintistgud.files.wordpress.com/2011/04/logo_a_logo_segunda_edicion.pdf
 
 https://grandecovian.es/FGC/index.php/tecmatimp/informatica-1-bto/inkscape/1349-ejercicios-arduino-2
@@ -53,3 +55,7 @@ https://grandecovian.es/FGC/index.php/tecmatimp/informatica-1-bto/inkscape/1349-
 
 Arquitectura de ordenadores:
 https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arquitectura%20de%20ordenadores.pdf
+
+Clase de fabacademy de componentes electrónicos y soldado
+
+http://academy.cba.mit.edu/classes/electronics_production/index.html

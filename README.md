@@ -8,6 +8,7 @@ Este repositorio recopila el trabajo y el material de la tercera evaluación don
 
 [Clase especial de Bits](https://github.com/d-prieto/Inkscape-fresado-y-soldadura/blob/main/bits%20y%20bytes.md)
 
+[Clase de Fresado y tutorial de Mods -en construcción-](https://github.com/d-prieto/Inkscape-fresado-y-soldadura/blob/main/Fresado.md)
 
 ## Repositorios de alumnos 
 

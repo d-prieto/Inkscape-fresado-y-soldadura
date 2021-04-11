@@ -6,14 +6,14 @@ Este repositorio recopila el trabajo y el material de la tercera evaluación don
 
 [Enlace a las instrucciones de google Activate](https://github.com/d-prieto/Inkscape-fresado-y-soldadura/blob/main/Google%20Activate.md#cursos-google-activate)
 
-[Clase especial de Bits]
+[Clase especial de Bits](https://github.com/d-prieto/Inkscape-fresado-y-soldadura/blob/main/bits%20y%20bytes.md)
 
 
 ## Repositorios de alumnos 
 
 * [Wesley](https://github.com/Wesley3455/Soldadura-y-disegn-3.e#soldadura-y-disegn-3e)
 * [Alba](https://github.com/Albitah24/Soldadura-y-diseno-UwU#soldadura-y-dise%C3%B1o-uwu)
-* [Marcos](https://github.com/marcoshens/Soldadura-y-disegn-3.eva#soldadura-y-dise%C3%B1o-3eva)
+* [Marcos](https://github.com/marcoshens/soldadura-y-dise-#soldadura-y-dise%C3%B1o)
 * [Ramón](https://github.com/ItsMonxxu/soldadura-y-diseno#soldadura-y-diseno)
 * [Marc](https://github.com/marc125678/Soldadura-dise-o#soldadura-y-dise%C3%B1o)
 * [Javi](https://github.com/reverte04/Soldadura-y-disegn-3.eva#soldadura-y-dise%C3%B1o-3eva)

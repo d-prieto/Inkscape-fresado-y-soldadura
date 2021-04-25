@@ -36,7 +36,7 @@ En el Readme.md se incluirán los siguientes enlaces:
 
 - Documentación de proceso.md donde se desarrollará con detalle el proceso de creación. 
 - Ficha técnica.md donde se detallará el proyecto.
-- Documentos finales.md donde se incluirán las conclusiones finales y archivos. 
+- Documentos finales.md donde se incluirán los archivos y material para fabricar el objeto. 
 - Un enlace a la presentación.
 
 Si lo desea el alumno puede incluir otros enlaces que considere de interés en este readme.md. 
@@ -51,18 +51,82 @@ Las diferentes secciones de la documentación de proceso varían en función del
 
 Se evaluará:
 
-* Cantidad de información recogida (cuanta más, mejor)
+* Cantidad de información recogida (cuanta más, mejor). Mínimo 200 palabras de texto con sentido. 
 * Material de internet correctamente citado, incluyendo material de compañeros.
 * Cantidad y claidad de material fotográfico para documentar lo realizado. 
 * Estructura clara del documento (índice, títulos)
 
-#### Ficha técnica 
+#### Ficha técnica.md
 
-En la ficha técnica se especifican una serie de información sobre el proyecto que hay que redactar correctamente. Esta ficha puede estar redactada en castellano o en catalán y será puntuada teniendo en cuenta varias de las competencias digitales y transversales que se han ido aprendiendo a lo largo del curso y que también puntúan, es decir:
+En la ficha técnica se especifican una serie de información sobre el proyecto que hay que redactar correctamente. Esta ficha puede estar redactada en castellano o en catalán (Excepto una sección que debe ir en ambos) y será puntuada teniendo en cuenta varias de las competencias digitales y transversales que se han ido aprendiendo a lo largo del curso y que también puntúan, es decir:
 
-• Presentación y organización del documento:
-o Título del trabajo, nombre del proyecto, nombre completo del autor del proyecto,
+* Presentación y organización del documento:
+* Título del trabajo, nombre del proyecto, nombre completo de le autore del proyecto,
 organización de cada punto de la ficha técnica
+* Redacción del texto
+* Ortografía
 
-• Redacción del texto
-• Ortografía
+
+Cada punto de la ficha técnica tiene que tener obligatoriamente, al 3 párrafos con 200 palabras en total, es obligatorio y tiene gran peso en la nota final del proyecto integrado. También puntúa que ilustréis los diferentes puntos de la ficha técnica, es una parte fundamental en la documentación de un proyecto. Bien pueden ser gráficos con esquemas del proyecto, bien pueden ser capturas de pantalla de cuando estáis desarrollando la aplicación, creando los objetos, etc.
+
+
+* Nombre del proyecto (no vale "lámpara" a secas ni "videojuego" a secas). Nombre de le autore
+* Objetivo del proyecto (para qué sirve la aplicación, cuál es su utilidad, porqué habéis
+creado la aplicación de esa forma). Punto que hay que describir en castellano **y** en catalan. 
+* Descripción de todas y cada una de las herramientas utilizadas para le realización del
+proyecto
+* Esquema de funcionamiento del proyecto. Descripción de cómo funciona físicamente y cual es su programación. 
+* Qué conocimientos habéis adquirido con cada uno de los pasos y qué dedicación en
+tiempo a cada una de las fases del proyecto
+* Fotografías del objeto.
+* Enlace directo a documentos finales.md 
+
+Se evaluará 
+
+* Ortografía y redacción
+* Estructura clara del documento (índice, títulos)
+* Cumplimentación de todos los puntos y desarrollo de los mismos.
+* Calidad del material fotográfico adjuntado.
+
+#### Documentos finales.md
+
+Este archivo incluirá las conclusiones finales, fotografías, dibujos, planos y archivos (de código, editables de 2d o 3d) necesarios para crear el objeto. 
+
+* Código utilizado.
+* Esquema de instalación.
+* Archivos de fabricación.
+* Fuentes de cualquier imagen externa incluyendo su licencia.
+
+Se evaluará que estén toda la información necesaria para reproducir el objeto. En caso de necesitar archivos de 2D y 3D se incluirán a la vez que los archivos gcode o .rml
+
+Se evaluará
+
+* Estructura clara del documento (índice, títulos)
+* Que estén todos los archivos de fabricación necesarios
+* Que se reconozcan las fuentes externas de imágenes, código, tipografía correctamente.
+
+### Presentación del proyecto 
+
+La presentación del proyecto puede hacerse a través de un powerpoint/slides que se enlazará en el repositorio (se pondrá el enlace a google drive) y tendrá el siguiente esquema:
+
+* Breve presentación del alumno
+* Objetivo del proyecto
+* Descripción del proyecto 
+* Proceso de creación del proyecto
+* Conclusiones
+
+La presentación debe estar en catalán o en castellano. Y se evaluará lo siguiente:
+
+* Calidad gráfica de la presentación. Esto es si la presentación es bonita y agradable visualmente. 
+* Lenguaje no verbal de le alumne durante la presentación.
+* Estructura de la presentación. Esto es si se puede seguir el esquema del proyecto. 
+* Contenido de la presentación. Esto es cual es la relevancia de lo que se cuenta para contar el proyecto.
+* Calidad del lenguaje de la presentación. Esto es la calidad del vocabulario a la hora de contar el proyecto. 
+
+### Objeto final
+
+El objeto final es una parte de la evaluación y significará lo que se haya podido gestar en esta semana y media. El peso de cada una de ellas varía en función del tipo de proyecto (videojuego o lámpara) pero básicamente son los principios de arquitectura de Vitrubio (siglo I)
+
+* _Firmitas_. **Firmeza** El objeto creado ha de sostenerse a sí mismo sin caerse o desmembrarse. Puede utilizar otros objetos pero si usa el arduino este debe poder extraerse para poder utilizarse en otros proyectos. 
+* _Utilitas_. **Utilidad**. El objeto debe funcionar como está planteado que funcione hasta el estado que haya llegado e proyecto
+* _Venustas_. **Belleza** El objeto debe ser _bonito_ y agradable visualmente hasta el estado que haya llegado el proyecto. 

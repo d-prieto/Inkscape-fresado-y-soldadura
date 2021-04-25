@@ -35,11 +35,34 @@ Se solicita un enlace a un **nuevo repositorio** por parte del alumno en github 
 En el Readme.md se incluirán los siguientes enlaces:
 
 - Documentación de proceso.md donde se desarrollará con detalle el proceso de creación. 
-- Documentos finales.md donde se incluirán las explicaciones finales y archivos. 
+- Ficha técnica.md donde se detallará el proyecto.
+- Documentos finales.md donde se incluirán las conclusiones finales y archivos. 
 - Un enlace a la presentación.
 
-Si lo desea el alumno puede incluir otros enlaces que considere de interés en este readme.md
+Si lo desea el alumno puede incluir otros enlaces que considere de interés en este readme.md. 
 
 #### Documentacion de proceso.md
 
-Esta 
+Esta página consistirá en detallar cada uno de los pasos, inspiraciones, aciertos y errores desde el comienzo del proyecto hasta el final. Supone un diario de viaje donde se detalla lo que aprende el alumno escribiendolo todo. 
+
+Esta documentación puede ser escrita en cualquier idioma en el que el alumno sea fluido. 
+
+Las diferentes secciones de la documentación de proceso varían en función del proyecto a realizar y se detallarán más adelante. 
+
+Se evaluará:
+
+* Cantidad de información recogida (cuanta más, mejor)
+* Material de internet correctamente citado, incluyendo material de compañeros.
+* Cantidad y claidad de material fotográfico para documentar lo realizado. 
+* Estructura clara del documento (índice, títulos)
+
+#### Ficha técnica 
+
+En la ficha técnica se especifican una serie de información sobre el proyecto que hay que redactar correctamente. Esta ficha puede estar redactada en castellano o en catalán y será puntuada teniendo en cuenta varias de las competencias digitales y transversales que se han ido aprendiendo a lo largo del curso y que también puntúan, es decir:
+
+• Presentación y organización del documento:
+o Título del trabajo, nombre del proyecto, nombre completo del autor del proyecto,
+organización de cada punto de la ficha técnica
+
+• Redacción del texto
+• Ortografía

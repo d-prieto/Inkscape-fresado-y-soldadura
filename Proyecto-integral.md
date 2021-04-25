@@ -187,10 +187,51 @@ El proyecto de videojuego consistirá en lo siguiente:
 - Input por parte del jugador a través de botones o cualquier otro sistema que hable con arduino. 
 - Output que pueda ver el jugador a través de una (o dos si es necesario) pantallas LCD. 
 - Creación del circuito de forma firme para que se pueda jugar conectando o desconectando el arduino. 
-- Pieza firme para conectar el arduino y poner la pantalla LCD.
+- Pieza firme para conectar el arduino  y el resto de componentes (joystick, pantalla LCD o lo que neesite)
 - Set de instrucciones para le jugadore. (Tutorial de cómo se juega)
 
 Al igual que con la lámpara, existen varias alternativas para hacer el proyecto del videojuego. Le alumne junto con el profesor averiguarán cual es la más indicada en cada caso en función de las inquietudes de le alumne. Esto se puede desarrollar en la documentación respondiendo a las siguientes preguntas y contestándolas en Documentacion de proceso.md. 
 
 ¿Qué tipo de videojuego me gustaría hacer? ¿Conozco algún juego/videojuego similar que quiera imitar?¿Alguno tiene código que pueda revisar?De esos videojuegos hay alguno que me interese especialmente?
 
+Para dar opciones dejo aquí algunas ideas y proyectos (pueden ser otras cosas limitadas al material disponible):
+
+- Un juego para gente invidente que sólo a través de sonidos sea entretenido de jugar. Similar al radar que hicimos en clase pero explorando más. 
+- Un speedrunner utilizando una o dos pantallas LCD
+- Una mascota virtual tipo "tamagochi" utilizando una o dos pantallas LCD
+- Una bomba para desactivar utilizando varios conectores que hay que activar en el orden correcto para desactivarla. 
+- Un juego conversacional donde le jugadore habla con la pantalla LCD
+- Un sistema de sonido/instrumento musical que con diferentes inputs genera diferentes sonidos con más de un altavoz. 
+
+
+Para guiar el proyecto de videojuego se escriben una serie de preguntas para que le alumne responda en su documentación. Para preguntas que requieran algún tipo de dibujo se puede dibujar en físico y subir una fotografía a la documentación. **Estas preguntas no se tienen que responder con una respuesta defintiva la primera vez**, sino que sirven de boceto, de preliminar de las respuestas definitivas que irán saliendo a medida que avanza el proyecto. Esto se le llama "diseño en espiral". 
+
+
+Sobre el juego en sí mismo
+
+- ¿Cuál es el objetivo del juego? ¿Cuando se "gana"? ¿cuándo se "pierde"?
+- ¿Qué controles tiene? ¿qué hace cada uno de los controles?
+- ¿Qué tipo de juego es?
+- ¿Cuáles son las diferentes "fases" del juego?¿Se puede pausar?
+
+Sobre el input
+
+- ¿Qué acciones puede tener la persona que juega dentro del juego? ¿qué cosas no puede hacer?
+- ¿A través de qué mecanismo se le dice al arduino que funcione?¿Utiliza botones?¿potenciómetros? ¿serán inputs analógicos o digitales?
+
+Sobre el output
+
+- ¿Cómo sabe el jugador lo que está haciendo? ¿qué información le das al jugador sobre lo que está haciendo?
+- ¿Es necesario utilizar una pantalla LCD? ¿Pueden haber otras formas de desplegar información que no sean la pantalla LCD para darle información al jugador? (otros LED, altavoz, un motor)
+
+Sobre la pieza donde estará inserto el arduino. 
+
+- Esto se va a unir a un arduino ¿cuan largos han de ser los cables que unan al arduino?
+- ¿Cómo es esa pieza que se inserta?¿De qué material es? ¿podemos hacer alguna de las piezas con láser/fresado/impresión 3D? (cuanto más se pueda fabricar, mejor)
+- ¿Puede esta pieza/caja transmitir algo sobre cómo es el juego?
+- ¿Por dónde entra el cable/los cables que sean necesarios para alimentar el arduino?
+- ¿Dónde están colocados los inputs y outputs en esta pieza?
+
+Sobre las instrucciones
+
+- ¿Qué hace falta decirle a una persona que no sabe nada de este juego para que lo pueda jugar?

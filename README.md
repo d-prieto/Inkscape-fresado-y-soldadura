@@ -10,6 +10,10 @@ Este repositorio recopila el trabajo y el material de la tercera evaluación don
 
 [Clase de Fresado y tutorial de Mods -en construcción-](https://github.com/d-prieto/Inkscape-fresado-y-soldadura/blob/main/Fresado.md)
 
+## Proyecto Integral 
+
+[Proyecto integral](https://github.com/d-prieto/Inkscape-fresado-y-soldadura/blob/main/Proyecto-integral.md)
+
 ## Repositorios de alumnos 
 
 * [Wesley](https://github.com/Wesley3455/Soldadura-y-disegn-3.e#soldadura-y-disegn-3e)

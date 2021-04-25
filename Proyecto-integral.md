@@ -139,7 +139,7 @@ Adicionalmente se valorará positivamente el utilizar diferentes tecnologías (m
 ![imagen](https://user-images.githubusercontent.com/60569015/115997157-7049aa80-a5e2-11eb-9d0b-c15e3191af48.png)
 
 
-Existen varias alternativas para hacer el proyecto de la lámpara. Le alumne junto con el profesor averiguarán cual es la más indicada en cada caso en función de las inquietudes de le alumne. Esto se puede desarrollar en la documentación respondiendo a las siguientes preguntas y contestándolas en Documentacion de proceso.md.  
+Existen varias alternativas para hacer el proyecto de la lámpara. Le alumne junto con el profesor averiguarán cual es la más indicada en cada caso en función de las inquietudes de le alumne. Esto se puede desarrollar en la documentación respondiendo a las siguientes preguntas y contestándolas en Documentacion de proceso.md. 
 
 ¿Qué tipo de lámpara me gustaría hacer? ¿Conozco alguna lámpara similar que quiera imitar - Wesley encontró, por ejemplo un proyecto de lámpara de arduino con botela de refressco)? De esas lámparas que conozco o he investigado ¿hay algún cambio que me gustaría hacer?
 
@@ -147,7 +147,7 @@ El proyecto de lámpara consistirá en una lámpara led programada por arduino y
 
 - Pantalla y forma de la lámpara donde se colocará el/los LED. 
 - Mecanismo de apagado y encendido de la luz LED. (interruptor)
-- Pieza para ocultar el arduino. 
+- Pieza para ocultar el arduino que se podrá desconectar para reutilizarlo.
 - Programación del arduino
 
 Para guiar el proyecto de lámpara se escriben una serie de preguntas para que le alumne responda en su documentación. Para preguntas que requieran algún tipo de dibujo se puede dibujar en físico y subir una fotografía a la documentación. **Estas preguntas no se tienen que responder con una respuesta defintiva la primera vez**, sino que sirven de boceto, de preliminar de las respuestas definitivas que irán saliendo a medida que avanza el proyecto. Esto se le llama "diseño en espiral". 
@@ -178,7 +178,19 @@ Sobre el programa
 
 - ¿Qué tipo de funcionamiento tiene el LED? ¿qué ocurre si se activa o desactiva? ¿Es necesario programarlo con arduino o basta utilizar hardware para hacerlo funcionar?
 
+## Proyecto de videojuego
 
+El videojuego será una experiencia narrativa libre utilizando los sistemas disponibles de arduino. Uno de los alumnos, Javi, ya tiene claro que quiere hacer un speedrunner. Un juego similar al [videojuego de chrome del dinosaurio](https://es.wikipedia.org/wiki/Dinosaur_Game). No obstante se pueden hacer otro tipo de experiencias de juego (experiencias lúdicas) usando el arduino. 
 
+El proyecto de videojuego consistirá en lo siguiente:
 
+- Input por parte del jugador a través de botones o cualquier otro sistema que hable con arduino. 
+- Output que pueda ver el jugador a través de una (o dos si es necesario) pantallas LCD. 
+- Creación del circuito de forma firme para que se pueda jugar conectando o desconectando el arduino. 
+- Pieza firme para conectar el arduino y poner la pantalla LCD.
+- Set de instrucciones para le jugadore. (Tutorial de cómo se juega)
+
+Al igual que con la lámpara, existen varias alternativas para hacer el proyecto del videojuego. Le alumne junto con el profesor averiguarán cual es la más indicada en cada caso en función de las inquietudes de le alumne. Esto se puede desarrollar en la documentación respondiendo a las siguientes preguntas y contestándolas en Documentacion de proceso.md. 
+
+¿Qué tipo de videojuego me gustaría hacer? ¿Conozco algún juego/videojuego similar que quiera imitar?¿Alguno tiene código que pueda revisar?De esos videojuegos hay alguno que me interese especialmente?
 

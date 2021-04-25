@@ -32,11 +32,11 @@ Cada uno de estos elementos tendrá una nota y en su conjunto crearán la nota g
 
 Se solicita un enlace a un **nuevo repositorio** por parte del alumno en github de visibilidad pública, como los realizados en las dos anteriores evaluaciones. Este tendrá el nombre de "**proyecto integral pfi 2021**". 
 
-En el Readme.md se incluirán los siguientes enlaces:
+En el Readme.md _que también se evaluará_ se incluirán los siguientes enlaces:
 
-- Documentación de proceso.md donde se desarrollará con detalle el proceso de creación. 
-- Ficha técnica.md donde se detallará el proyecto.
-- Documentos finales.md donde se incluirán los archivos y material para fabricar el objeto. 
+- [Documentación de proceso.md](https://github.com/d-prieto/Inkscape-fresado-y-soldadura/blob/main/Proyecto-integral.md#documentacion-de-procesomd) donde se desarrollará con detalle el proceso de creación. 
+- [Ficha técnica.md](https://github.com/d-prieto/Inkscape-fresado-y-soldadura/blob/main/Proyecto-integral.md#ficha-t%C3%A9cnicamd) donde se detallará el proyecto.
+- [Documentos finales.md](https://github.com/d-prieto/Inkscape-fresado-y-soldadura/blob/main/Proyecto-integral.md#documentos-finalesmd) donde se incluirán los archivos y material para fabricar el objeto. 
 - Un enlace a la presentación.
 
 Si lo desea el alumno puede incluir otros enlaces que considere de interés en este readme.md. 

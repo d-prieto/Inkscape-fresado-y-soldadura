@@ -125,8 +125,9 @@ La presentación debe estar en catalán o en castellano. Y se evaluará lo sigui
 
 ### Objeto final
 
-El objeto final es una parte de la evaluación y significará lo que se haya podido gestar en esta semana y media. El peso de cada una de ellas varía en función del tipo de proyecto (videojuego o lámpara) pero básicamente son los principios de arquitectura de Vitrubio (siglo I)
+El objeto final es una parte de la evaluación y significará lo que se haya podido gestar en esta semana y media. El peso de cada una de ellas varía en función del tipo de proyecto (videojuego o lámpara) pero básicamente son los principios de arquitectura de [Vitrubio](https://www.plataformaarquitectura.cl/cl/02-207156/opinion-venustas-firmitas-utilitas) (siglo I)
 
 * _Firmitas_. **Firmeza** El objeto creado ha de sostenerse a sí mismo sin caerse o desmembrarse. Puede utilizar otros objetos pero si usa el arduino este debe poder extraerse para poder utilizarse en otros proyectos. 
 * _Utilitas_. **Utilidad**. El objeto debe funcionar como está planteado que funcione hasta el estado que haya llegado e proyecto
 * _Venustas_. **Belleza** El objeto debe ser _bonito_ y agradable visualmente hasta el estado que haya llegado el proyecto. 
+

@@ -129,5 +129,7 @@ El objeto final es una parte de la evaluación y significará lo que se haya pod
 
 * _Firmitas_. **Firmeza** El objeto creado ha de sostenerse a sí mismo sin caerse o desmembrarse. Puede utilizar otros objetos pero si usa el arduino este debe poder extraerse para poder utilizarse en otros proyectos. 
 * _Utilitas_. **Utilidad**. El objeto debe funcionar como está planteado que funcione hasta el estado que haya llegado e proyecto
-* _Venustas_. **Belleza** El objeto debe ser _bonito_ y agradable visualmente hasta el estado que haya llegado el proyecto. 
+* _Venustas_. **Belleza** Cómo se demuestra la creatividad de le alumne en el objeto final. 
+
+Adicionalmente se valorará positivamente el utilizar diferentes tecnologías (más de una) a la hora de crear el objeto. 
 

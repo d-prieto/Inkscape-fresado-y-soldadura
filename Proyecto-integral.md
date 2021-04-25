@@ -16,17 +16,17 @@ Este proyecto consiste en crear una lámpara que ilumine utilizando arduino para
 
 El proyecto se evaluará en tres apartados. 
 
-* Documentación del proyecto
-* Objeto final realizado 
-* Presentación del proyecto en power point el día 5 de mayo
+* [Documentación del proyecto](https://github.com/d-prieto/Inkscape-fresado-y-soldadura/blob/main/Proyecto-integral.md#documentaci%C3%B3n-del-proyecto)
+* [Objeto final realizado](https://github.com/d-prieto/Inkscape-fresado-y-soldadura/blob/main/Proyecto-integral.md#objeto-final)
+* [Presentación del proyecto en power point el día 5 de mayo](https://github.com/d-prieto/Inkscape-fresado-y-soldadura/blob/main/Proyecto-integral.md#presentaci%C3%B3n-del-proyecto)
 
 Cada uno de estos elementos tendrá una nota y en su conjunto crearán la nota global. Los porcentajes son los siguientes:
 
 - Actitud: 15 % 
 - Asistencia: 15 %
-- Presentación: 15 %
-- Documentación escrita: 35 %
-- Objeto final realizado: 20 %
+- [Presentación: 15 %](https://github.com/d-prieto/Inkscape-fresado-y-soldadura/blob/main/Proyecto-integral.md#presentaci%C3%B3n-del-proyecto)
+- [Documentación escrita: 35 %](https://github.com/d-prieto/Inkscape-fresado-y-soldadura/blob/main/Proyecto-integral.md#documentaci%C3%B3n-del-proyecto)
+- [Objeto final realizado: 20 %](https://github.com/d-prieto/Inkscape-fresado-y-soldadura/blob/main/Proyecto-integral.md#objeto-final)
 
 ### Documentación del proyecto 
 

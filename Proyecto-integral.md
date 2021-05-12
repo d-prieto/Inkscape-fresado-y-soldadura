@@ -1,16 +1,45 @@
 # Proyecto integral 
 
+## Índice 
+
+* [Sistema de Evaluación](#sistema-de-evaluaci%C3%B3n)
+* [Proyectos de los alumnos](#Proyectos de los alumnos)
+* [Proyectos de lámpara](#proyecto-de-lámpara)
+* [Proyecto de videojuego](#proyecto-de-videojuego)
+
+
 ## Objetivo del proyecto
 
 El proyecto integral sirve para aunar las diferentes capacidades y disciplinas trabajadas durante el curso para crear un objeto utilizando una guía. Para adaptarse a las inquietudes de los alumnos se han diseñado 2 modelos de proyecto a los cuales los alumnos se pueden adscribir.
 
 ### Videojuego utilizando arduino
 
-Este proyecto consiste en crear una experiencia lúdica utilizando el arduino incluyendo inputs y outputs del mismo así como una encapsulación. 
+Este proyecto consiste en crear una experiencia lúdica utilizando el arduino incluyendo inputs y outputs del mismo así como una encapsulación. [Aquí se puede ver con más detalle](#proyecto-de-videojuego)
+
 
 ### Lámpara con luces programables 
 
-Este proyecto consiste en crear una lámpara que ilumine utilizando arduino para su programación.
+Este proyecto consiste en crear una lámpara que ilumine utilizando arduino para su programación. [Aquí se puede ver con más detalle](#proyecto-de-lámpara)
+
+## Repositorios de los alumnos 
+
+### Curso 2020/2021
+
+#### Proyectos de lámpara
+
+* [Wesley](https://github.com/Wesley3455/Proyecto-integral-2021#proyecto-lampara-integral-2021)
+* [Alba](https://github.com/Albitah24/Proyecto-integral-#proyecto-integral-pfi-2021)
+* [Marcos](https://github.com/marcoshens/PROYECTO-LAMPARA#proyecto-lampara)
+* [Ramon](https://github.com/ItsMonxxu/TRABAJO-INTEGRADO#trabajo-integrado)
+* [Marc](https://github.com/marc125678/Proyecto-Lampara/blob/main/PROYECTO%20INTEGRADO%20LAMPARA.MD#proyecto-integral-lampara-marc)
+* [Victor](https://github.com/XXDARKNIGHTXX/Proyecto-Integral-Lampara-2021#victor-rodriguez)
+* [Jaume](https://github.com/Jsamapro/proyecto-integral-pfi-2021#proyecto-integral-pfi-2021)
+* [Naira](https://github.com/chechiliaa/Proyecto-Integral#-%F0%9D%93%9B%F0%9D%93%AA%F0%9D%93%BF%F0%9D%93%AA-%F0%9D%93%B5%F0%9D%93%AA%F0%9D%93%B6%F0%9D%93%B9)
+
+#### Proyectos de videojuego
+
+* [Javi](https://github.com/reverte04/PROYECTO-VIDEOJUEGO/blob/main/proceso%20de%20proyecto.md)
+* [Bangwei](https://github.com/chenbangwei/PROYECTO-VIDEOJUEGO#proyecto-videojuego)
 
 ## Sistema de evaluación 
 
@@ -179,6 +208,10 @@ Sobre el programa
 - ¿Qué tipo de funcionamiento tiene el LED? ¿qué ocurre si se activa o desactiva? ¿Es necesario programarlo con arduino o basta utilizar hardware para hacerlo funcionar?
 
 ## Proyecto de videojuego
+
+![imagen](https://user-images.githubusercontent.com/60569015/117963452-b318bb80-b320-11eb-97fa-66722b0a0c57.png)
+
+_imagen del proyecto de Javi_
 
 El videojuego será una experiencia narrativa libre utilizando los sistemas disponibles de arduino. Uno de los alumnos, Javi, ya tiene claro que quiere hacer un speedrunner. Un juego similar al [videojuego de chrome del dinosaurio](https://es.wikipedia.org/wiki/Dinosaur_Game). No obstante se pueden hacer otro tipo de experiencias de juego (experiencias lúdicas) usando el arduino. 
 

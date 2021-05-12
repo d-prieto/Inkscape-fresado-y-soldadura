@@ -3,7 +3,7 @@
 ## Índice 
 
 * [Sistema de Evaluación](#sistema-de-evaluaci%C3%B3n)
-* [Proyectos de los alumnos](#Proyectos de los alumnos)
+* [Proyectos de los alumnos](#repositorios-de-los-alumnos)
 * [Proyectos de lámpara](#proyecto-de-lámpara)
 * [Proyecto de videojuego](#proyecto-de-videojuego)
 

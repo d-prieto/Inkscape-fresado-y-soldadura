@@ -64,3 +64,11 @@ https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arqu
 Clase de fabacademy de componentes electrónicos y soldado
 
 http://academy.cba.mit.edu/classes/electronics_production/index.html
+
+MakerCase:
+
+https://es.makercase.com/#/
+
+Otros lugares de piezas de corte láser 
+
+https://makerdesignlab.com/tutorials-tips/online-file-generators-for-laser-cutting/#gears
